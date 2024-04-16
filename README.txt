@@ -1,5 +1,10 @@
-SPOTREND: Predicting Spotify Song Success - Project Overview & Proposal
+SPOTREND: Predicting Spotify Song Success
+Project Overview & Instructions
 By Kenjee Koh, Campbell Singhasemanon, Daniel Nguyen
+
+========================================================================================================================
+                                                         I. PROJECT OVERVIEW
+========================================================================================================================
 
 ==============================
 1. INTRODUCTION
@@ -119,3 +124,15 @@ This project presents an exciting opportunity to delve into the intersection of 
 By leveraging the Spotify API for accurate data analytics, we aim to not only develop a predictive model but also gain valuable insights into the dynamics of song popularity on streaming platforms.
 
 We are confident that our interdisciplinary approach and collaborative efforts will lead to a successful outcome that enhances our skills and strengthens our credentials.
+
+
+
+
+========================================================================================================================
+                                                     II. PROGRAM INSTRUCTIONS
+========================================================================================================================
+
+
+==============================
+1. GETTING STARTED
+==============================
