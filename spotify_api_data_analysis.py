@@ -4,7 +4,8 @@ Spotify API Analysis File
 
 This script retrieves data for the top 50 streamed songs on Spotify for the year 2023 and analyzes the various
 associated features of a song (e.g., danceability, valence, acousticness, etc.). The script uses the Spotify API to
-retrieve information about songs and their audio features.
+retrieve information about songs and their audio features. The script then finishes by exporting a csv file named
+"top_tracks_2023_w_audio_features.csv".
 
 Functions:
     get_top_tracks_2023(sp, num_tracks=50):
